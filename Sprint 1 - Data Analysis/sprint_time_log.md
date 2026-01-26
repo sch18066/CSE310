@@ -30,7 +30,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |    1/19  |  3:00    |  IM    |      Making new code and following examples|    4:30     |
 |      1/23|  5:00    |   IM   | Creating more code, finishing up           |    3:00     |
 |    1/24  |  12:30   |     TP |   Finding MQTT broker and setting up ESP32 |    4:00     |
-|As needed |As needed |  MTG   |I attended all class meetings, refer to class schedule|As needed|
+|As needed |As needed |  MTG   |I attended all class meetings, refer to class schedule|4:00|
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 
