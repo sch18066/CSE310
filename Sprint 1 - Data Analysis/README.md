@@ -6,7 +6,7 @@ Using R programming to analyze a dataset about road accidents
 
 Steps to build and/or run the software:
 
-1. Install R studion and download the dataset and the script
+1. Install R studio and download the dataset and the script
 2. set your working directory with File->Change Dir...
 3. Make sure "data analysis script.R" and "road_accident_data.csv" are in the same directory
 4. Run the script in R using File->Source R code...
